@@ -1,0 +1,171 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Prayer meete to be sayd of all true subiectes for our Queene Elizabeth, and for the present stare [sic] Priere propre a dire pour chacun vray, &amp; fidele subiet, pour nostre Roine Elizabeth, &amp; pour l'estat present / mise en François par Iaques Bellot ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1586</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21235</idno>
+            <idno type="STC">STC 7594.5</idno>
+            <idno type="STC">ESTC S1085</idno>
+            <idno type="EEBO-CITATION">20052644</idno>
+            <idno type="OCLC">ocm 20052644</idno>
+            <idno type="VID">23630</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21235)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 23630)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1727:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Prayer meete to be sayd of all true subiectes for our Queene Elizabeth, and for the present stare [sic] Priere propre a dire pour chacun vray, &amp; fidele subiet, pour nostre Roine Elizabeth, &amp; pour l'estat present / mise en François par Iaques Bellot ...</title>
+                  <author>Bellot, Jaques.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>By Richard Iones, [d]welling neere vnto Holberne bridge,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>[1586]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>English text and French translation in opposite columns.</note>
+                  <note>Date of imprint suggested by STC (2nd ed.).</note>
+                  <note>Imperfect: creased with some loss of print.</note>
+                  <note>Reproduction of original in the Emmanuel College (University of Cambridge). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Elizabeth --  I, --  Queen of England, 1533-1603.</term>
+               <term>Prayers --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Elizabeth, 1558-1603.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div xml:lang="eng" type="prayer">
+            <pb facs="tcp:23630:1"/>
+            <head>A prayer meete to be ſayd of all true Subiectes for our Queene Eliza<g ref="char:EOLhyphen"/>beth, and for the preſent ſtare.</head>
+            <sp>
+               <speaker>Miniſter.</speaker>
+               <p>
+                  <hi>O Lord, ſaue our moſt gracious Queene Elizabeth.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Anſwere.</speaker>
+               <p>
+                  <hi>And mercifully heare vs when we call vppon thee.</hi>
+               </p>
+            </sp>
+            <figure/>
+            <p>Let vs pray.</p>
+            <p>
+               <seg rend="decorInit">O</seg> Almightie God, King of Kings, Lord of Lords, the onely God and gouerner of all things: Thou art hee, by whome alone Kings doe reigne: Thou moſt high, beareſt the rule ouer all the kingdomes of men: Thou in Chriſt thine onely Sonne, being the moſt gracious Father of thy choſen Church, doeſt for the comfortable nouriſhing of it, diſpoſe the Royall ſtate among men. Through this thy grace it is come to paſſe, that we the Engliſh nation now a portion of the ſame thy Church, do enioy y<hi rend="sup">e</hi> gouernment of Elizabeth our Quéene, whom thou haſt againſt al practiſes of thine aduerſaries deliuered out of perills: and by thy mightie hand brought to raigne ouer vs. Mercifully guiding her, thou haſt made her vnto vs a mother, to thine afflic<g ref="char:EOLhyphen"/>ted flock a nource: in that benefite which we haue in libertie of true Religion and com<g ref="char:EOLhyphen"/>mon peace. Merueilouſly protecting her, thou haſt kept her to defend vs, to vſe &amp; holde <gap reason="illegible: faint" extent="1 line">
+                  <desc>〈1 line〉</desc>
+               </gap> as purpoſes to ſpoyle her of vs, vs of her, and both her and vs of thy Religion, and of peace, determining to deliuer vs ouer, to the tyranny of that ſhameleſſe ſinfull man of Rome, and the bloudy ſword. In which purpoſe of miſchief: if thou haddeſt permitted them to preuayle, wée had ſuffe<g ref="char:EOLhyphen"/>red for our ſinnes at thy hand O Lord, moſt iuſtly, but at their hands moſt vnkindly, vnnaturally and vniuſtly. For we doe offend thy maieſtie many wayes, we offend not them any wayes: Yet ſuch is their waywardnes, that they do hate vs, yea ſuch is their wickednes that they will hate vs, only becauſe we in trueth doe profeſſe, to ſerue thée. For this cauſe they conſpire againſt thee, O God, like hipocrites, againſt our Quéene like Traitors, againſt our common countrey like ſpoylers, againſt vs euen as Cain did againſt Abel. But thy great goodnes hath deuiſed better for vs, then they do: Thou haſt ſpared vs, whom they would haue ſpoyled. Thy wiſdom hath vnfolded their wic<g ref="char:EOLhyphen"/>kednes. Thy prouidence hath preuented their purpoſe. All honor, prayſe, with thanks in the congregation, and by euery member thereof be giuen to thée, O God of grace, O Lorde of pittie, O father of mercie for euer and euer. And now we beſéech thée, O mercifull father, be not prouoked with our ſinnes to giue vs ouer to the luſt of our en<g ref="char:EOLhyphen"/>nemies: do not make vs a reproch to theſe heathen. Let not the Iewe, the Turke, the Papiſt in our ouerthrow triumph againſt thee, ſaying: Where is now their God? but of thy riche mercie in Chriſt forgiue our ſinnes, by thy renuing ſpirite amende vs, and worke out the good worke which thou haſt begon among vs. Confound and bring to naught the attemptes of theſe and the like enemies, as thou dideſt at Babel. Infold them in the folly of their owne counſels, as thou dideſt Achitophel. By thine Angell ſinite their force, as thou dideſt to Senacheribe. In their deſperate attemptes let them be browned, as was Pharao. In their treaſons ouertake them, as thou dideſt Abſa<g ref="char:EOLhyphen"/>lon. If any of them are to be conuerted, turne them as thou dideſt Manaſſes. Other<g ref="char:EOLhyphen"/>wiſe let them feele their due puniſhment: as did Dathan with his conſpirators, that of theſe alſo may be left an example of thy iuſtice to the poſteritie. We do likewiſe moſt humbly beſéech thée to continue thy goodnes towards vs euen of thine old wonted mer<g ref="char:EOLunhyphen"/>cie. Deliuer our Quéene Elizabeth fro<g ref="char:cmbAbbrStroke">̄</g> euill: Direct her in the true knowledge of thée, to acknowledge thy benefites towards her, and her duetie towards thée: Kindle more and more in her hart zeale to ſerue thée her ſelfe, and to haue thée ſerued of vs ſincere<g ref="char:EOLhyphen"/>ly. Guide her ſtil to gouerne vs iuſtly in godly peace. Giue vnto vs alſo which are ſub<g ref="char:EOLhyphen"/>iectes, thankefull heartes to thée, faithfull to her in thée, charitable towardes all men, that all which liue vnder her gouernement, Counſellers, Miniſters, and euery other in their place and calling, may be throughly ſanctified in holines to liue before thée. Thus prolonging her raigne ouer vs, doe thou in it plant thy Religion among and in vs, ſo that it may with power reforme and rule vs, and remaine to our poſteritie after vs, that the praiſe of thy name may continue in the Heartes and Mouthes of the Engliſh nation, that England may ſay for euer: The Lord be praiſed. Amen.</p>
+            <closer>God ſaue our Queene Elizabeth, and confound all her enemyes. Amen.</closer>
+         </div>
+         <div xml:lang="fre" type="version">
+            <head>
+               <hi>Priere propre a dire pour chacun vray, &amp; fidele ſub<g ref="char:EOLhyphen"/>ict,</hi> pour nostre Roine Elizabeth, &amp; pour l'Estat preſent: miſe en François par <hi>Iaques Bellot,</hi> Gentilhome cadomois.</head>
+            <sp>
+               <speaker>Le Miniſtre.</speaker>
+               <p>
+                  <hi>Seigneur ſaune nostre tres-gracieuſe Dame, la Roine Elizabeth.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Rêponſe.</speaker>
+               <p>
+                  <hi>Et nous exauce par ta miſcricorde, quand nous t'Inuoquout.</hi>
+               </p>
+            </sp>
+            <p>Prions le Seigneur.</p>
+            <figure/>
+            <p>DIEV tout puiſſant, Roy des Roys, Seigneur des Seigneurs, le ſeul Dieu, &amp; gouuerneur de toutes choſes, C'Eſt de ton oeuure que les Rois regne<g ref="char:cmbAbbrStroke">̄</g>t: Toy tres-haut as la ſouueraineté ſur tous les Empires du monde: Comme tu te monſtres pere des tiens en ton filz Ieſus Chriſt, auſſy pour la co<g ref="char:cmbAbbrStroke">̄</g>ſeruation &amp; aſſeurance de ton Egliſe: tu eſtablis les Rois entre les homes: Par ceſte tienne grace (Seigneur) tu nous as ſuſcité Eliza<g ref="char:EOLhyphen"/>beth noſtre Roine pour auoir gouuernement ſurnous, laquelle de te<g ref="char:cmbAbbrStroke">̄</g>ps en temps, il t'a pleu deffendre de beau<g ref="char:EOLhyphen"/>coup de perilz, pour confermer de plus en plus, ſon<g ref="char:EOLunhyphen"/>ſceptre, &amp;, ſa couronne à l'Encontre de tous ſes aduer<g ref="char:EOLhyphen"/>ſaires: Tu as eſté ſa conduité, &amp; addreſſe par ta bonté: Tu nous l'as donnée pour mere, &amp; pour nourrice, à ta poure Egliſe, à fin que ſouz ſa protection, eſtans maintenuz en paix, &amp; liberté de co<g ref="char:cmbAbbrStroke">̄</g>ſcience, nous puiſsions te ſeruir tout le temps de noſtre vye en ſainteté, &amp; Innocence: Tu nous l'as conſeruée miraculeuſement: Tu l'as gardée pour nous deffendre, &amp; nous faire Iouir de ce gra<g ref="char:cmbAbbrStroke">̄</g>d benefice: Tu as maintenant par ta puiſſante, &amp; admirable mercy manifeſté les practiques de ces cruelz, &amp; cauteleux ennemis, qui auoient co<g ref="char:cmbAbbrStroke">̄</g>ſpiré de l'Oſter du millieu de nous, &amp; l'Eſteignant, d'exterminer la Religio<g ref="char:cmbAbbrStroke">̄</g>, &amp; troubler la Paix: Et ainſy nous vendre &amp; liurer en proye à ce deteſtable filz de perditio<g ref="char:cmbAbbrStroke">̄</g>, &amp; ſa<g ref="char:cmbAbbrStroke">̄</g>guinaire Antechriſt de Rome. Seigneur, nous confeſſons qu' à cauſe de noz pechelz, &amp; rebellions, nous ſommes indignes de ta faueur, &amp; meritons d'Eſtre expoſez à l'aba<g ref="char:cmbAbbrStroke">̄</g>don pour eſtre deuorez de ces cruelz rebelles: Mais ce pendant, O Dieu! Ce que tu euſſes peu faire iu<g ref="char:EOLhyphen"/>ſtement, euſt eſté excecuté par eux iniuſtement: Nous prouoquons à tous mo<g ref="char:EOLhyphen"/>mens ton yre à l'Encontre de nous, &amp; neantmoins, nous ne leur donnons au<g ref="char:EOLhyphen"/>cune occaſion deſ' Offencer contre nous: Mais leur malice eſt ſy grande qu' ilz nous haïſſent ſans cauſe: Voire leur Impieté eſt ſy horrible, qu' llz cerchent no<g ref="char:EOLhyphen"/>ſtre tuine, ſeulement pour ce que nous inuoquons ton ſaint nom: Ilz atte<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <gap reason="illegible: faint" extent="1 line">
+                  <desc>〈1 line〉</desc>
+               </gap> de ſon frere Abel: Mais ilz n' en veullent pas tant à nous qu'à toy O Dieu: Or par ta ſinguliere bonté, tu nous as eſpargnez, &amp; retirez de leur danger: Tu as confondu leur ſageſſe, &amp; les as ſurprins en leurs ruſes, &amp; fineſſes: Auſſy (Seigneur) tout honeur, louanges &amp; graces t'En ſoient rendues à Iamais, en l'aſſemblée de tes fideles.</p>
+            <p>Maintenant, nous te ſupplions (pere miſericordieux) de faire paix auec, les<g ref="char:EOLunhyphen"/>tiens, &amp; de n'abandonner ton heritage: Ne permets point que nous ſoions en ri<g ref="char:EOLhyphen"/>ſée, &amp; moquerie aux Infideles, Queles Iuifs, Paiens, Turcs &amp; Papiſtes, ne triom<g ref="char:EOLhyphen"/>fent contre toy de noſtre deſolation, Et dient: Oú eſt maintenant leur Dieu? Mais ſelon tes grandes compaſsions, ne nous Impute point noz offences, &amp; pour nous rendre conformes à ta volonté, Renouuelle en nous ton eſprit: Acheue l'Oeuure que tu as commencé en nous, &amp; pourſuy de confondre, &amp; diſciper les enterpriſes de ceux, qui te ſont contraires, comme Iadis tu confondis, &amp; diſcipas l'Enterpriſe de Babel: Enueloppe les en la folie de leurs propres conſeilz, comme tu enueloppas Achitophel: Frappe les par ton Ange, comme tu frappas les for<g ref="char:EOLhyphen"/>ces de Senacherib: Submerge leurs deſeſperées enterpriſes, ainſy que tu noias Pharaon: Preuien les en leurs trahiſons, ainſy que tu preuins Abſalon: Et ſy quel<g ref="char:EOLhyphen"/>ques vnz d'Entre eux ſont à conuertir, Change leurs coeurs, comme tu feis à Ma<g ref="char:EOLhyphen"/>naſſes: Sinon, fay leur ſentir leur iuſte puniſſement, comme tu feis à Dathan &amp; à ſes complices, à celle fin qu' llz ſeruent d'Exemple à la poſterité, pour cheminer en ta crainte, &amp; adorer tes Iugements: Nous te ſupplions auſſy treſhumbleme<g ref="char:cmbAbbrStroke">̄</g>t, de continuer tes bontez enuers nous, ſelon ton ancienne accuſtumeé miſericor<g ref="char:EOLhyphen"/>de: Deliure de tout mal noſtre Roine Elizabeth: Sois luy pour garde, &amp; forte<g ref="char:EOLhyphen"/>reſſe: Addreſſe la de plus en plus en la vrage cognoiſſance de ton ſalut, a fin que recognoiſſant, co<g ref="char:cmbAbbrStroke">̄</g>bien grands ſont tes benefices enuers elle, Elle S'eſtudye à auan<g ref="char:EOLhyphen"/>cer le regne de ton filz: Enflamme en ſon coeur, le zele qu'Elle a de te ſeruir, &amp; de faire que ton ſeruice ſoit conſerué entre nous en toute pureté: Conduy la touſ<g ref="char:EOLhyphen"/>iours, à fin qu'Elle domine ſur nous en bonne paix: Ne ſouffre point, que nous ſon peuple, ſoions ingrats enuers toy: Mais nous octroie vn coeur pur, pour te rendte l'honeur, &amp; recognoiſſance, que nous te deuons, &amp; que nous toùs, qui vi<g ref="char:EOLhyphen"/>uons ſouz ſon authorite, Conſeillers, Miniſtres, &amp; autres, chacun en ſa vocation, Menans vne vye ſainté en ta preſence, luy rendions obbeiſſance telle qu'll appar<g ref="char:EOLhyphen"/>tient: Et prolongeant ſon regne ſur nous, Il te plaiſe la guider en ſorte, qu'Elle pla<g ref="char:cmbAbbrStroke">̄</g>te de plus en plus, la piëte entre nous: Qu'elle reforme ce qui eſt à reformer, &amp; qu'elle nous gouuerne en Iuſtice, Sy que tel bien nous demeure à Iamais, &amp; à noſtre poſterité, faiſant que la louange de ton nom continue és coeurs, &amp; és bou<g ref="char:EOLhyphen"/>ches de nous tous, à fin que tes fideles puiſſét dire à perpetuité, Le Seigneur ſoit loué. Ainſy ſoyt-il.</p>
+            <closer>Dieu ſauue noſtre Roine Elizabeth, &amp; confonde tous ſes ennemis, Ainſy ſoyt-il. Lós équitable.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <g ref="char:leaf">❧</g> Imprinted at London by <hi>Richard Iones,</hi> welling neere vnto Holberne bridge.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
